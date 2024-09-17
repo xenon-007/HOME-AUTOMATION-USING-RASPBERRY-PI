@@ -14,3 +14,6 @@ This system is an ideal solution for smart homes, providing a seamless, touch-fr
 ## Technologies:
 - Raspberry Pi
 - OpenCV
+
+## Project Explanation Video
+- https://youtu.be/sCO_4o7T2vQ?si=g5A7irUUGijkhOHP
